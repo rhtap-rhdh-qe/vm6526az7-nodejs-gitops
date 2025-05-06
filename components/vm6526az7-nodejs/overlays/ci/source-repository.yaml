@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vm6526az7-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vm6526az7-nodejs
